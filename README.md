@@ -28,6 +28,6 @@ Cada uno de los anteriores además tiene:
 - GET: {{url}}+{endpoint}
 - POST: {{url}}+{endpoint}
 - DELETE {{url}}/{endpoint}/ID
-- PATCH {{url}}/cliente/ID; Y no olvidar los datos que se actualizarán
+- PATCH {{url}}/{endpoint}/ID; Y no olvidar los datos que se actualizarán
 
 - _especial_:/envio/estados
