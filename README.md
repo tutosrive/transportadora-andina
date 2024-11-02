@@ -21,11 +21,9 @@ Cada uno de los anteriores además tiene:
 # Verbos/Acciones disponibles:
 
 >[!NOTE]
-> {{url}} = https://comprehensive-harrie-trg-670f482b.koyeb.app/
->[!NOTE]
-> enpoint = ["cliente", "mercancia","bulto", "sobre", "caja", "paquete"]
->[!NOTE]
-> ID = ID del elemento
+><code> `{{url}} = https://comprehensive-harrie-trg-670f482b.koyeb.app/`</code>
+><code> `enpoint = ["cliente", "mercancia","bulto", "sobre", "caja", "paquete"]`</code>
+><code> `ID = ID del elemento`</code>
 
 - GET: {{url}}+{endpoint}
 - POST: {{url}}+{endpoint}
