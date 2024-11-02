@@ -17,3 +17,12 @@ Caso de estudio Transportadora Andina - Semestre 2 Universidad de Caldas
 Cada uno de los anteriores además tiene:
 
 - {endpoint}/conteo
+
+# Verbos/Acciones disponibles:
+
+- GET: url+{endpoint}
+- POST: url+{endpoint}
+- REMOVE: url+{endpoint}
+- PATCH {{url}}/cliente/IDCLIENTE; Y no olvidar los datos que se actualizarán
+
+- _especial_:/envio/estados
