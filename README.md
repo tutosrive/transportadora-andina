@@ -20,9 +20,14 @@ Cada uno de los anteriores además tiene:
 
 # Verbos/Acciones disponibles:
 
-- GET: url+{endpoint}
-- POST: url+{endpoint}
-- REMOVE: url+{endpoint}
-- PATCH {{url}}/cliente/IDCLIENTE; Y no olvidar los datos que se actualizarán
+>[!NOTE]
+> {{url}} = https://comprehensive-harrie-trg-670f482b.koyeb.app/
+> enpoint = ["cliente", "mercancia","bulto", "sobre", "caja", "paquete"]
+> ID = ID del elemento
+
+- GET: {{url}}+{endpoint}
+- POST: {{url}}+{endpoint}
+- DELETE {{url}}/{endpoint}/ID
+- PATCH {{url}}/cliente/ID; Y no olvidar los datos que se actualizarán
 
 - _especial_:/envio/estados
