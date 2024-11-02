@@ -5,7 +5,7 @@ Caso de estudio Transportadora Andina - Semestre 2 Universidad de Caldas
 > Puede probarlo en [API Transportadora Andina](https://transportadora-andina.onrender.com/), aunque tiene almacenamiento efímero.
 
 >[!NOTE]
-> Puede probarlo en [API Transportadora Andina - ++](https://comprehensive-harrie-trg-670f482b.koyeb.app/), con almacenamiento CONTINUO.
+> Puede probarlo en [API Transportadora Andina - ++](https://comprehensive-harrie-trg-670f482b.koyeb.app/), con almacenamiento efímero :(.
 
 ## endPoints disponibles:
 - cliente
