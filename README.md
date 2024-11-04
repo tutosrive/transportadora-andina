@@ -22,7 +22,7 @@ Cada uno de los anteriores además tiene:
 
 >[!NOTE]
 ><code> `{{url}} = https://comprehensive-harrie-trg-670f482b.koyeb.app/`</code>
-><code> `enpoint = ["cliente", "mercancia","bulto", "sobre", "caja", "paquete"]`</code>
+><code> `enpoint = "cliente" || "mercancia" || "bulto" || "sobre" || "caja" || "paquete"`</code>
 ><code> `ID = ID del elemento`</code>
 
 - GET: {{url}}+{endpoint}
