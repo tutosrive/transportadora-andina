@@ -1,0 +1,9 @@
+[build]
+dockerfile = "Dockerfile"
+
+[deploy]
+start = "java -jar envios.jar"
+
+[[routes]]
+path = "/"
+port = 7070
