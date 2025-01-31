@@ -3,6 +3,3 @@ dockerfile = "Dockerfile"
 
 [deploy]
 start = "java -jar app.jar --server.port=${PORT}"
-
-[env]
-PORT = "7070"

@@ -1,35 +1,33 @@
 # Fase 1: Construcción con Maven
 FROM maven:3.9.6-eclipse-temurin-21 AS build
 
-# Configuramos el directorio de trabajo
 WORKDIR /app
 
-# Copiamos solo el archivo pom.xml primero (para optimizar caché de dependencias)
+# Copiar el pom.xml primero para que las dependencias se cacheen
 COPY pom.xml .
 
-# Descargamos dependencias antes de copiar el código fuente completo
+# Descargar dependencias antes de copiar el código fuente completo
 RUN --mount=type=cache,target=/root/.m2 mvn dependency:go-offline
 
-# Copiamos el código fuente
+# Copiar todo el código fuente después de descargar dependencias
 COPY . .
 
-# Compilamos el proyecto sin ejecutar pruebas
+# Compilar el proyecto sin ejecutar pruebas
 RUN --mount=type=cache,target=/root/.m2 mvn -B -DskipTests clean package
 
-# Fase 2: Imagen ligera con JDK solo para ejecución
+# Fase 2: Imagen final con OpenJDK
 FROM openjdk:21-jdk-slim
 
-# Configuramos el directorio de trabajo
 WORKDIR /app
 
 # Copiamos el JAR desde la fase de compilación
-COPY --from=build /app/target/envios.jar app.jar
+COPY --from=build /app/target/*.jar app.jar
 
-# Exponemos el puerto (pero usamos el que Railway asigne)
+# Configuramos el puerto dinámico que Railway asigna
+ENV PORT=${PORT}
+
+# Exponer el puerto (Railway asignará el suyo dinámicamente)
 EXPOSE 7070
 
-# Definimos variable para manejar el puerto de Railway
-ENV PORT=7070
-
 # Comando de ejecución con puerto dinámico
-CMD ["sh", "-c", "java -jar app.jar --server.port=${PORT}"]
+CMD ["sh", "-c", "java -jar app.jar --server.port=${PORT:-7070}"]
