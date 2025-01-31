@@ -1,0 +1,409 @@
+[
+  {
+    "contenido": "Manzanas californianas",
+    "tipo": "Caja",
+    "costo": 87100,
+    "volumen": 85.1,
+    "peso": 4,
+    "nroGuia": "A23SVCYV",
+    "remitente": {
+      "direccion": "Urbanización Ciudad Jardín",
+      "id": "C0009",
+      "telefono": "3124567890",
+      "nombre": "Juan Sebastián Herrera",
+      "ciudad": "CALI VALLE DEL CAUCA"
+    },
+    "alto": 4.3,
+    "destinatario": {
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro",
+      "ciudad": "MEDELLÍN ANTIOQUIA"
+    },
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-11-26T00:02:33",
+        "id": "275769337"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-11-26T08:02:33",
+        "id": "1768084447"
+      },
+      {
+        "estado": "ENVIADO",
+        "fechaHora": "2024-12-16T06:02:33",
+        "id": "1603288576"
+      }
+    ],
+    "ancho": 4.5,
+    "fragil": true,
+    "valorDeclarado": 400000,
+    "largo": 4.4,
+    "id": "A23SVCYV"
+  },
+  {
+    "contenido": "Juguetes de madera",
+    "tipo": "Caja",
+    "costo": 134500,
+    "volumen": 132,
+    "peso": 5,
+    "nroGuia": "9ZHFRDKE",
+    "remitente": {
+      "direccion": "Cra. 22 #23-12",
+      "id": "C0001",
+      "telefono": "3115551010",
+      "nombre": "Isabella Martinez Cardona Pineda",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "alto": 4,
+    "destinatario": {
+      "direccion": "Calle 50 #12B-35, Barrio La Francia",
+      "id": "C0002",
+      "telefono": "3126789012",
+      "nombre": "Ana María López Pérez",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T14:01:18",
+      "id": "958266079"
+    }],
+    "ancho": 6,
+    "fragil": false,
+    "valorDeclarado": 150000,
+    "largo": 5.5,
+    "id": "9ZHFRDKE"
+  },
+  {
+    "contenido": "Cristales decorativos",
+    "tipo": "Caja",
+    "costo": 76500,
+    "volumen": 75,
+    "peso": 3,
+    "nroGuia": "RXZ2EPKC",
+    "remitente": {
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa",
+      "ciudad": "ARMENIA QUINDIO"
+    },
+    "alto": 3,
+    "destinatario": {
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T14:01:20",
+      "id": "556635715"
+    }],
+    "ancho": 5,
+    "fragil": true,
+    "valorDeclarado": 600000,
+    "largo": 5,
+    "id": "RXZ2EPKC"
+  },
+  {
+    "contenido": "Manzanas chilenas",
+    "tipo": "Caja",
+    "costo": 11200,
+    "volumen": 10.2,
+    "peso": 2,
+    "nroGuia": "8H0UD2WW",
+    "remitente": {
+      "direccion": "Calle 50 #30-20, Local 5",
+      "id": "DPPRL",
+      "telefono": "3147766553",
+      "nombre": "Jorge Andrés Pineda Restrepo",
+      "ciudad": "CARTAGENA BOLIVAR"
+    },
+    "alto": 2.2,
+    "destinatario": {
+      "direccion": "Urbanización Los Rosales, Manzana 3, Casa 12",
+      "id": "C0006",
+      "telefono": "3187654321",
+      "nombre": "Laura Patiño Salazar",
+      "ciudad": "CALI VALLE DEL CAUCA"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T14:01:22",
+      "id": "2005700942"
+    }],
+    "ancho": 1.5,
+    "fragil": false,
+    "valorDeclarado": 300000,
+    "largo": 3.1,
+    "id": "8H0UD2WW"
+  },
+  {
+    "contenido": "Botellas de vino",
+    "tipo": "Caja",
+    "costo": 33000,
+    "volumen": 8,
+    "peso": 6,
+    "nroGuia": "XODDV7DU",
+    "remitente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "alto": 2,
+    "destinatario": {
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-10-27T14:01:25",
+        "id": "843859945"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-12-05T08:57:21",
+        "id": "360462429"
+      },
+      {
+        "estado": "ENVIADO",
+        "fechaHora": "2024-12-05T08:57:30",
+        "id": "1997252462"
+      },
+      {
+        "estado": "EN_CAMINO",
+        "fechaHora": "2024-12-05T08:57:46",
+        "id": "1253759636"
+      },
+      {
+        "estado": "EXTRAVIADO",
+        "fechaHora": "2024-12-05T09:04:37",
+        "id": "1594089623"
+      },
+      {
+        "estado": "REENVIADO",
+        "fechaHora": "2024-12-05T09:04:46",
+        "id": "1799044046"
+      },
+      {
+        "estado": "DEVUELTO",
+        "fechaHora": "2024-12-05T09:05:13",
+        "id": "1494454897"
+      }
+    ],
+    "ancho": 2,
+    "fragil": false,
+    "valorDeclarado": 500000,
+    "largo": 2,
+    "id": "XODDV7DU"
+  },
+  {
+    "contenido": "Caja de ejemplo",
+    "tipo": "Caja",
+    "costo": 195000,
+    "volumen": 192,
+    "peso": 6,
+    "nroGuia": "XODDVEDU",
+    "remitente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "alto": 12,
+    "destinatario": {
+      "direccion": "Cra. 22 #22-33",
+      "id": "ASDGG",
+      "telefono": "3109876523",
+      "nombre": "David Santiago Marin",
+      "ciudad": "BGOTÁ D.C, BOGOTÁ"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T14:01:25",
+      "id": "2110873997"
+    }],
+    "ancho": 4,
+    "fragil": true,
+    "valorDeclarado": 500000,
+    "largo": 4,
+    "id": "XODDVEDU"
+  },
+  {
+    "contenido": "Floreros Franceses",
+    "tipo": "Caja",
+    "costo": 22000,
+    "volumen": 1,
+    "peso": 20,
+    "nroGuia": "KZ2R4FU4",
+    "remitente": {
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "alto": 1,
+    "destinatario": {
+      "direccion": "Urbanización Los Rosales, Manzana 3, Casa 12",
+      "id": "C0006",
+      "telefono": "3187654321",
+      "nombre": "Laura Patiño Salazar",
+      "ciudad": "CALI VALLE DEL CAUCA"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-16T20:51:07",
+      "id": "376521173"
+    }],
+    "ancho": 1,
+    "fragil": true,
+    "valorDeclarado": 1000,
+    "largo": 1,
+    "id": "KZ2R4FU4"
+  },
+  {
+    "contenido": "Caja para verificar Estados",
+    "tipo": "Caja",
+    "costo": 195000,
+    "volumen": 192,
+    "peso": 6,
+    "nroGuia": "TNQ2M4QW",
+    "remitente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "alto": 12,
+    "destinatario": {
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-26T00:02:33",
+      "id": "1195738647"
+    }],
+    "ancho": 4,
+    "fragil": true,
+    "valorDeclarado": 500000,
+    "largo": 4,
+    "id": "TNQ2M4QW"
+  },
+  {
+    "contenido": "Caja para verificar Estados",
+    "tipo": "Caja",
+    "costo": 195000,
+    "volumen": 192,
+    "peso": 6,
+    "nroGuia": "212J9JCW",
+    "remitente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "alto": 12,
+    "destinatario": {
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-26T00:02:33",
+      "id": "556036868"
+    }],
+    "ancho": 4,
+    "fragil": true,
+    "valorDeclarado": 500000,
+    "largo": 4,
+    "id": "212J9JCW"
+  },
+  {
+    "contenido": "Caja para verificar Estados fff",
+    "tipo": "Caja",
+    "costo": 195000,
+    "volumen": 192,
+    "peso": 6,
+    "nroGuia": "VGISB0KV",
+    "remitente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "alto": 12,
+    "destinatario": {
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-26T00:02:33",
+      "id": "1303087027"
+    }],
+    "ancho": 4,
+    "fragil": true,
+    "valorDeclarado": 500000,
+    "largo": 4,
+    "id": "VGISB0KV"
+  },
+  {
+    "contenido": "CAJA DE EJEMPLO PARA ESTADOS",
+    "tipo": "Caja",
+    "costo": 195000,
+    "volumen": 192,
+    "peso": 6,
+    "nroGuia": "IYVELD30",
+    "remitente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "alto": 12,
+    "destinatario": {
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-28T08:12:52",
+      "id": "576382145"
+    }],
+    "ancho": 4,
+    "fragil": true,
+    "valorDeclarado": 500000,
+    "largo": 4,
+    "id": "IYVELD30"
+  }
+]

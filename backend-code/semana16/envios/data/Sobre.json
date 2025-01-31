@@ -1,0 +1,69 @@
+[
+  {
+    "contenido": "Documentos notariales",
+    "tipo": "Sobre",
+    "costo": 2860,
+    "peso": 0.1,
+    "nroGuia": "VV0106C6",
+    "fragil": false,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 0,
+    "id": "VV0106C6",
+    "certificado": true,
+    "destinatario": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Avenida El Poblado",
+      "id": "C0008",
+      "telefono": "3059876543",
+      "nombre": "María Fernanda Gómez"
+    },
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-12-08T11:16:56",
+        "id": "925961859"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-12-08T12:07:23",
+        "id": "1088282124"
+      }
+    ]
+  },
+  {
+    "contenido": "Documentos",
+    "tipo": "Sobre",
+    "costo": 2600,
+    "peso": 0.1,
+    "nroGuia": "I3644HUW",
+    "fragil": false,
+    "remitente": {
+      "ciudad": "ARBOLETES ANTIOQUIA",
+      "direccion": "Cll. 23 Sur #23-12",
+      "id": "WTR50",
+      "telefono": "3115550002",
+      "nombre": "Samuel Alejandro Coral Ortiz"
+    },
+    "valorDeclarado": 0,
+    "id": "I3644HUW",
+    "certificado": false,
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    },
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-12-08T13:29:55",
+      "id": "730191868"
+    }]
+  }
+]

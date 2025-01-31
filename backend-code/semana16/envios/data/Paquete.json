@@ -1,0 +1,633 @@
+[
+  {
+    "contenido": "Componentes electrónicos",
+    "tipo": "Paquete",
+    "costo": 45000,
+    "nroGuia": "DAW2LXYS",
+    "peso": 1500,
+    "fragil": true,
+    "remitente": {
+      "ciudad": "BARRANQUILLA ATLANTICO",
+      "direccion": "Centro Comercial El Tesoro, Local 124",
+      "id": "MO18I",
+      "telefono": "3115544332",
+      "nombre": "Carlos Alberto Ramírez Torres"
+    },
+    "valorDeclarado": 200000,
+    "id": "DAW2LXYS",
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-10-27T13:11:57",
+        "id": "510718524"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-12-02T19:16:59",
+        "id": "546225442"
+      },
+      {
+        "estado": "ENVIADO",
+        "fechaHora": "2024-12-02T19:17:43",
+        "id": "839633312"
+      },
+      {
+        "estado": "EN_CAMINO",
+        "fechaHora": "2024-12-02T19:19:46",
+        "id": "1012712433"
+      },
+      {
+        "estado": "REENVIADO",
+        "fechaHora": "2024-12-02T19:23:55",
+        "id": "872053108"
+      },
+      {
+        "estado": "EXTRAVIADO",
+        "fechaHora": "2024-12-02T19:24:16",
+        "id": "695626664"
+      },
+      {
+        "estado": "INDEFINIDO",
+        "fechaHora": "2024-12-02T19:24:41",
+        "id": "1390201372"
+      },
+      {
+        "estado": "DEVUELTO",
+        "fechaHora": "2024-12-02T19:24:52",
+        "id": "1397703455"
+      },
+      {
+        "estado": "ENTREGADO",
+        "fechaHora": "2024-12-02T19:24:58",
+        "id": "334836164"
+      }
+    ],
+    "destinatario": {
+      "ciudad": "CALI VALLE DEL CAUCA",
+      "direccion": "Calle 45 Sur #30A-11, Barrio Santa Anita",
+      "id": "BB19X",
+      "telefono": "3206655443",
+      "nombre": "Ana Sofía Rodríguez Mejía"
+    }
+  },
+  {
+    "contenido": "Semillas girasol libres de Monsanto",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "HQ3HPTKN",
+    "peso": 10,
+    "fragil": true,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 200000,
+    "id": "HQ3HPTKN",
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-10-27T13:14",
+        "id": "1574486534"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-12-07T15:48:21",
+        "id": "121457654"
+      },
+      {
+        "estado": "ENVIADO",
+        "fechaHora": "2024-12-07T15:48:28",
+        "id": "1436572823"
+      },
+      {
+        "estado": "EN_CAMINO",
+        "fechaHora": "2024-12-07T15:48:43",
+        "id": "1166874506"
+      },
+      {
+        "estado": "REENVIADO",
+        "fechaHora": "2024-12-07T15:49:05",
+        "id": "142062404"
+      },
+      {
+        "estado": "ENTREGADO",
+        "fechaHora": "2024-12-07T15:49:10",
+        "id": "1616965086"
+      }
+    ],
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    }
+  },
+  {
+    "contenido": "Televisor LED 42 pulgadas",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "A5T51L30",
+    "peso": 10,
+    "fragil": true,
+    "remitente": {
+      "ciudad": "PEREIRA RISARALDA",
+      "direccion": "Calle 50 #12B-35, Barrio La Francia",
+      "id": "C0002",
+      "telefono": "3126789012",
+      "nombre": "Ana María López Pérez"
+    },
+    "valorDeclarado": 150000,
+    "id": "A5T51L30",
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-10-27T13:18:07",
+        "id": "460639225"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-12-01T17:56:34",
+        "id": "1147311385"
+      },
+      {
+        "estado": "ENVIADO",
+        "fechaHora": "2024-12-01T17:56:39",
+        "id": "1922111085"
+      },
+      {
+        "estado": "EN_CAMINO",
+        "fechaHora": "2024-12-01T17:56:43",
+        "id": "2056412099"
+      },
+      {
+        "estado": "REENVIADO",
+        "fechaHora": "2024-12-01T17:56:49",
+        "id": "1086238014"
+      },
+      {
+        "estado": "DEVUELTO",
+        "fechaHora": "2024-12-01T17:56:55",
+        "id": "589699096"
+      },
+      {
+        "estado": "EXTRAVIADO",
+        "fechaHora": "2024-12-01T17:57:01",
+        "id": "916848891"
+      },
+      {
+        "estado": "ENTREGADO",
+        "fechaHora": "2024-12-01T17:57:05",
+        "id": "1299535747"
+      }
+    ],
+    "destinatario": {
+      "ciudad": "PEREIRA RISARALDA",
+      "direccion": "Diagonal 22B #30-40, Urbanización Miramar",
+      "id": "AFMH4",
+      "telefono": "3183322110",
+      "nombre": "Laura Isabella Vargas López"
+    }
+  },
+  {
+    "contenido": "Libros de literatura colombiana",
+    "tipo": "Paquete",
+    "costo": 450,
+    "nroGuia": "SCBZJEQA",
+    "peso": 15,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "CALI VALLE DEL CAUCA",
+      "direccion": "Calle 45 Sur #30A-11, Barrio Santa Anita",
+      "id": "BB19X",
+      "telefono": "3206655443",
+      "nombre": "Ana Sofía Rodríguez Mejía"
+    },
+    "valorDeclarado": 180000,
+    "id": "SCBZJEQA",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T13:19:48",
+      "id": "1910438598"
+    }],
+    "destinatario": {
+      "ciudad": "BARRANQUILLA ATLANTICO",
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez"
+    }
+  },
+  {
+    "contenido": "Vajilla de porcelana",
+    "tipo": "Paquete",
+    "costo": 150,
+    "nroGuia": "Q2ZN1ALN",
+    "peso": 5,
+    "fragil": true,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 15 #20-35, Edificio Torres Plaza",
+      "id": "9NX44",
+      "telefono": "3129988776",
+      "nombre": "María Camila Pérez Gómez"
+    },
+    "valorDeclarado": 220000,
+    "id": "Q2ZN1ALN",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T13:19:54",
+      "id": "771659430"
+    }],
+    "destinatario": {
+      "ciudad": "MANIZALES CALDAS",
+      "direccion": "Avenida 1ra Norte #34N-25",
+      "id": "V3ILX",
+      "telefono": "3109988774",
+      "nombre": "Valentina Castillo Rojas"
+    }
+  },
+  {
+    "contenido": "Electrodoméstico de cocina",
+    "tipo": "Paquete",
+    "costo": 360,
+    "nroGuia": "HCMYPHSO",
+    "peso": 12,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Centro Comercial Portal del Quindío, Local 56",
+      "id": "RHX25",
+      "telefono": "3198877665",
+      "nombre": "Andrés Felipe Castaño Vélez"
+    },
+    "valorDeclarado": 300000,
+    "id": "HCMYPHSO",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T13:19:58",
+      "id": "1729275417"
+    }],
+    "destinatario": {
+      "ciudad": "BUCARAMANGA SANTANDER",
+      "direccion": "Calle 100 #13-01, Oficina 402",
+      "id": "5UBHW",
+      "telefono": "3224432211",
+      "nombre": "Luis Fernando Álvarez Ortiz"
+    }
+  },
+  {
+    "contenido": "Jarrón de cristal",
+    "tipo": "Paquete",
+    "costo": 210,
+    "nroGuia": "5ABKS3CY",
+    "peso": 7,
+    "fragil": true,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 120000,
+    "id": "5ABKS3CY",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T13:20:03",
+      "id": "708727179"
+    }],
+    "destinatario": {
+      "ciudad": "CARTAGENA BOLIVAR",
+      "direccion": "Calle 50 #30-20, Local 5",
+      "id": "DPPRL",
+      "telefono": "3147766553",
+      "nombre": "Jorge Andrés Pineda Restrepo"
+    }
+  },
+  {
+    "contenido": "Herramientas de construcción",
+    "tipo": "Paquete",
+    "costo": 600,
+    "nroGuia": "W40CVZWQ",
+    "peso": 20,
+    "fragil": true,
+    "remitente": {
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+      "direccion": "Avenida Santander, No. 8-23, Oficina 305",
+      "id": "MVMW4",
+      "telefono": "3157765432",
+      "nombre": "Juan Sebastián González Muñoz"
+    },
+    "valorDeclarado": 250000,
+    "id": "W40CVZWQ",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T13:20:08",
+      "id": "311325825"
+    }],
+    "destinatario": {
+      "ciudad": "BARRANQUILLA ATLANTICO",
+      "direccion": "Centro Comercial El Tesoro, Local 124",
+      "id": "MO18I",
+      "telefono": "3115544332",
+      "nombre": "Carlos Alberto Ramírez Torres"
+    }
+  },
+  {
+    "contenido": "Alimentos no perecederos",
+    "tipo": "Paquete",
+    "costo": 180,
+    "nroGuia": "RUSYAXE2",
+    "peso": 6,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "PEREIRA RISARALDA",
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González"
+    },
+    "valorDeclarado": 100000,
+    "id": "RUSYAXE2",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-10-27T13:20:18",
+      "id": "1844025727"
+    }],
+    "destinatario": {
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez"
+    }
+  },
+  {
+    "contenido": "Semillas girasol azules",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "VHYK8WSC",
+    "peso": 10,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 200000,
+    "id": "VHYK8WSC",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-09T14:52:38",
+      "id": "150763999"
+    }],
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    }
+  },
+  {
+    "contenido": "Semillas girasol azules",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "HURJ90K0",
+    "peso": 10,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 200000,
+    "id": "HURJ90K0",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-09T14:54:20",
+      "id": "1257768219"
+    }],
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    }
+  },
+  {
+    "contenido": "Semillas girasol rojas",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "JD3W5RDN",
+    "peso": 10,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 200000,
+    "id": "JD3W5RDN",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-09T14:54:45",
+      "id": "1799527499"
+    }],
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    }
+  },
+  {
+    "contenido": "Paquete de ejemplo",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "JD3W5RCN",
+    "peso": 10,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "MEDELLÍN ANTIOQUIA",
+      "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+      "id": "C0003",
+      "telefono": "3004567890",
+      "nombre": "Juan David Ramírez Castro"
+    },
+    "valorDeclarado": 200000,
+    "id": "JD3W5RCN",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-09T14:54:45",
+      "id": "1154999816"
+    }],
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    }
+  },
+  {
+    "contenido": "Paquete de ejemplo caso2 JEJE",
+    "tipo": "Paquete",
+    "costo": 300,
+    "nroGuia": "JD3W5VCN",
+    "peso": 10,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "BGOTÁ D.C, BOGOTÁ",
+      "direccion": "Cra. 22 #22-33",
+      "id": "ASDGG",
+      "telefono": "3109876523",
+      "nombre": "David Santiago Marin"
+    },
+    "valorDeclarado": 200000,
+    "id": "JD3W5VCN",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-09T14:54:45",
+      "id": "1757572587"
+    }],
+    "destinatario": {
+      "ciudad": "ARMENIA QUINDIO",
+      "direccion": "Vereda La Palma, Finca El Paraíso",
+      "id": "C0004",
+      "telefono": "3151234567",
+      "nombre": "Sofia González Villa"
+    }
+  },
+  {
+    "contenido": "Alimentos no perecederos",
+    "tipo": "Paquete",
+    "costo": 180,
+    "nroGuia": "2FXN4LQQ",
+    "peso": 6,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "PEREIRA RISARALDA",
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González"
+    },
+    "valorDeclarado": 100000,
+    "id": "2FXN4LQQ",
+    "estados": [
+      {
+        "estado": "RECIBIDO",
+        "fechaHora": "2024-11-16T21:08:29",
+        "id": "308083507"
+      },
+      {
+        "estado": "EN_PREPARACION",
+        "fechaHora": "2024-12-01T18:00:58",
+        "id": "46079125"
+      },
+      {
+        "estado": "ENVIADO",
+        "fechaHora": "2024-12-01T18:01:06",
+        "id": "1467242518"
+      },
+      {
+        "estado": "EN_CAMINO",
+        "fechaHora": "2024-12-01T18:01:14",
+        "id": "832440366"
+      },
+      {
+        "estado": "DEVUELTO",
+        "fechaHora": "2024-12-01T18:01:28",
+        "id": "516554927"
+      },
+      {
+        "estado": "REENVIADO",
+        "fechaHora": "2024-12-01T18:01:32",
+        "id": "983278830"
+      },
+      {
+        "estado": "ENTREGADO",
+        "fechaHora": "2024-12-01T18:01:40",
+        "id": "232456729"
+      }
+    ],
+    "destinatario": {
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez"
+    }
+  },
+  {
+    "contenido": "Alimentos no perecederos",
+    "tipo": "Paquete",
+    "costo": 180,
+    "nroGuia": "HAPYGLDR",
+    "peso": 6,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "PEREIRA RISARALDA",
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González"
+    },
+    "valorDeclarado": 100000,
+    "id": "HAPYGLDR",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-16T21:09:03",
+      "id": "1077577204"
+    }],
+    "destinatario": {
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez"
+    }
+  },
+  {
+    "contenido": "Alimentos no perecederos",
+    "tipo": "Paquete",
+    "costo": 180,
+    "nroGuia": "4CKDBLWS",
+    "peso": 6,
+    "fragil": false,
+    "remitente": {
+      "ciudad": "PEREIRA RISARALDA",
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González"
+    },
+    "valorDeclarado": 100000,
+    "id": "4CKDBLWS",
+    "estados": [{
+      "estado": "RECIBIDO",
+      "fechaHora": "2024-11-16T21:09:44",
+      "id": "1367562499"
+    }],
+    "destinatario": {
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+      "direccion": "Calle 100 # 15B - 32",
+      "id": "C0007",
+      "telefono": "3112345678",
+      "nombre": "Carlos Alberto Pérez"
+    }
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+    "direccion": "Cra. 22 #23-12",
+    "id": "C0001",
+    "telefono": "3115551010",
+    "nombre": "Isabella Martinez Cardona Pineda"
+  },
+  {
+    "ciudad": "PEREIRA RISARALDA",
+    "direccion": "Calle 50 #12B-35, Barrio La Francia",
+    "id": "C0002",
+    "telefono": "3126789012",
+    "nombre": "Ana María López Pérez"
+  },
+  {
+    "ciudad": "MEDELLÍN ANTIOQUIA",
+    "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+    "id": "C0003",
+    "telefono": "3004567890",
+    "nombre": "Juan David Ramírez Castro"
+  },
+  {
+    "ciudad": "ARMENIA QUINDIO",
+    "direccion": "Vereda La Palma, Finca El Paraíso",
+    "id": "C0004",
+    "telefono": "3151234567",
+    "nombre": "Sofia González Villa"
+  },
+  {
+    "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+    "direccion": "Avenida Bolívar #15-89, Centro Comercial El Dorado",
+    "id": "C0005",
+    "telefono": "3219876543",
+    "nombre": "Diego Hernández Moreno"
+  },
+  {
+    "ciudad": "CALI VALLE DEL CAUCA",
+    "direccion": "Urbanización Los Rosales, Manzana 3, Casa 12",
+    "id": "C0006",
+    "telefono": "3187654321",
+    "nombre": "Laura Patiño Salazar"
+  },
+  {
+    "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+    "direccion": "Calle 100 # 15B - 32",
+    "id": "C0007",
+    "telefono": "3112345678",
+    "nombre": "Carlos Alberto Pérez"
+  },
+  {
+    "ciudad": "MEDELLÍN ANTIOQUIA",
+    "direccion": "Avenida El Poblado",
+    "id": "C0008",
+    "telefono": "3059876543",
+    "nombre": "María Fernanda Gómez"
+  },
+  {
+    "ciudad": "CALI VALLE DEL CAUCA",
+    "direccion": "Urbanización Ciudad Jardín",
+    "id": "C0009",
+    "telefono": "3124567890",
+    "nombre": "Juan Sebastián Herrera"
+  },
+  {
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "direccion": "Carrera 51",
+    "id": "C0010",
+    "telefono": "3191234567",
+    "nombre": "Laura Valentina Ramírez"
+  },
+  {
+    "ciudad": "PEREIRA RISARALDA",
+    "direccion": "Avenida 30 de Agosto",
+    "id": "C0011",
+    "telefono": "3139876543",
+    "nombre": "Daniel Felipe González"
+  },
+  {
+    "ciudad": "ARMENIA QUINDIO",
+    "direccion": "Centro Comercial Portal del Quindío, Local 56",
+    "id": "RHX25",
+    "telefono": "3198877665",
+    "nombre": "Andrés Felipe Castaño Vélez"
+  },
+  {
+    "ciudad": "MEDELLÍN ANTIOQUIA",
+    "direccion": "Carrera 15 #20-35, Edificio Torres Plaza",
+    "id": "9NX44",
+    "telefono": "3129988776",
+    "nombre": "María Camila Pérez Gómez"
+  },
+  {
+    "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+    "direccion": "Avenida Santander, No. 8-23, Oficina 305",
+    "id": "MVMW4",
+    "telefono": "3157765432",
+    "nombre": "Juan Sebastián González Muñoz"
+  },
+  {
+    "ciudad": "CALI VALLE DEL CAUCA",
+    "direccion": "Calle 45 Sur #30A-11, Barrio Santa Anita",
+    "id": "BB19X",
+    "telefono": "3206655443",
+    "nombre": "Ana Sofía Rodríguez Mejía"
+  },
+  {
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "direccion": "Centro Comercial El Tesoro, Local 124",
+    "id": "MO18I",
+    "telefono": "3115544332",
+    "nombre": "Carlos Alberto Ramírez Torres"
+  },
+  {
+    "ciudad": "PEREIRA RISARALDA",
+    "direccion": "Diagonal 22B #30-40, Urbanización Miramar",
+    "id": "AFMH4",
+    "telefono": "3183322110",
+    "nombre": "Laura Isabella Vargas López"
+  },
+  {
+    "ciudad": "BUCARAMANGA SANTANDER",
+    "direccion": "Calle 100 #13-01, Oficina 402",
+    "id": "5UBHW",
+    "telefono": "3224432211",
+    "nombre": "Luis Fernando Álvarez Ortiz"
+  },
+  {
+    "ciudad": "MANIZALES CALDAS",
+    "direccion": "Avenida 1ra Norte #34N-25",
+    "id": "V3ILX",
+    "telefono": "3109988774",
+    "nombre": "Valentina Castillo Rojas"
+  },
+  {
+    "ciudad": "CARTAGENA BOLIVAR",
+    "direccion": "Calle 50 #30-20, Local 5",
+    "id": "DPPRL",
+    "telefono": "3147766553",
+    "nombre": "Jorge Andrés Pineda Restrepo"
+  },
+  {
+    "ciudad": "BGOTÁ D.C, BOGOTÁ",
+    "direccion": "Cra. 22 #22-33",
+    "id": "SRM19",
+    "telefono": "3109876523",
+    "nombre": "Santiago Rivera Marin"
+  },
+  {
+    "ciudad": "MEDELLÍN ANTIOQUIA",
+    "direccion": "Cll. 23 Sur #23-12",
+    "id": "SRM20",
+    "telefono": "3109876523",
+    "nombre": "Santiago Marin"
+  },
+  {
+    "ciudad": "MEDELLÍN ANTIOQUIA",
+    "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+    "id": "SRM21",
+    "telefono": "3109876523",
+    "nombre": "Juan David Ramírez Castro"
+  },
+  {
+    "ciudad": "BGOTÁ D.C, BOGOTÁ",
+    "direccion": "Cra. 22 #22-33",
+    "id": "ASDGG",
+    "telefono": "3109876523",
+    "nombre": "David Santiago Marin"
+  },
+  {
+    "ciudad": "CAÑASGORDAS ANTIOQUIA",
+    "direccion": "Cll. 23 Sur #23-12",
+    "id": "NC8ZL",
+    "telefono": "3115550002",
+    "nombre": "Smith Peterson Docker"
+  },
+  {
+    "ciudad": "ARGELIA ANTIOQUIA",
+    "direccion": "Cr. 75 # 7-99 Sur 238854 Lorica, Córdoba",
+    "id": "Y17M4",
+    "telefono": "32012435456566",
+    "nombre": "David Andrés García"
+  },
+  {
+    "ciudad": "ANDES ANTIOQUIA",
+    "direccion": "Mercaldas La Sultana",
+    "id": "HIP16",
+    "telefono": "3004567890",
+    "nombre": "SRM"
+  },
+  {
+    "ciudad": "FRESNO TOLIMA",
+    "direccion": "Carrera 13 #25-45, Edificio Galaxia, apto 302",
+    "id": "LE4UC",
+    "telefono": "3109876523",
+    "nombre": "Santiago Rivera Marin"
+  },
+  {
+    "ciudad": "ARBOLETES ANTIOQUIA",
+    "direccion": "Cll. 23 Sur #23-12",
+    "id": "WTR50",
+    "telefono": "3115550002",
+    "nombre": "Samuel Alejandro Coral Ortiz"
+  }
+]

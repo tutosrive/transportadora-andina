@@ -1,0 +1,296 @@
+[
+  {
+    "contenido": "500 unidades de arándanos deshidratados x 500 gramos",
+    "volumen": 13.125,
+    "costo": 1706250,
+    "alto": 2.5,
+    "bodega": "Zona industrial Juanchito, BOGOTÁ, D.C. BOGOTÁ",
+    "fechaHoraIngreso": "2024-10-07T12:00",
+    "cliente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-10-20T12:00",
+    "diasAlmacenado": 13,
+    "ancho": 2.1,
+    "largo": 2.5,
+    "id": "52AVC9BO"
+  },
+  {
+    "contenido": "Paquete de arepas 12 unidades",
+    "volumen": 0.125,
+    "costo": 11250,
+    "alto": 0.1,
+    "bodega": "Centro Logístico - MEDELLÍN ANTIOQUIA",
+    "fechaHoraIngreso": "2024-10-23T12:45",
+    "cliente": {
+      "direccion": "Centro Comercial El Tesoro, Local 124",
+      "id": "MO18I",
+      "telefono": "3115544332",
+      "nombre": "Carlos Alberto Ramírez Torres",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-11-02T08:00",
+    "diasAlmacenado": 9,
+    "ancho": 0.16,
+    "largo": 0.25,
+    "id": "ALRQJBQ9"
+  },
+  {
+    "contenido": "Caja de buñuelos congelados",
+    "volumen": 0.125,
+    "costo": 5000,
+    "alto": 0.2,
+    "bodega": "Cedi - CALI VALLE DEL CAUCA",
+    "fechaHoraIngreso": "2024-10-24T08:15",
+    "cliente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-10-28T14:00",
+    "diasAlmacenado": 4,
+    "ancho": 0.3,
+    "largo": 0.4,
+    "id": "AX2E0KRS"
+  },
+  {
+    "contenido": "Caja de panela de Villeta",
+    "volumen": 0.125,
+    "costo": 18750,
+    "alto": 0.15,
+    "bodega": "Almacén La Gran Colombia - BOGOTÁ, D.C. BOGOTÁ",
+    "fechaHoraIngreso": "2024-10-25T15:10",
+    "cliente": {
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "ciudad": "PEREIRA RISARALDA",
+    "fechaHoraSalida": "2024-11-10T10:00",
+    "diasAlmacenado": 15,
+    "ancho": 0.2,
+    "largo": 0.25,
+    "id": "3RBIDTO5"
+  },
+  {
+    "contenido": "Caja con útiles escolares varios",
+    "volumen": 0.4,
+    "costo": 308000,
+    "alto": 1,
+    "bodega": "Plaza Central - Río Sucio",
+    "fechaHoraIngreso": "2024-01-12T07:45",
+    "cliente": {
+      "direccion": "Diagonal 22B #30-40, Urbanización Miramar",
+      "id": "AFMH4",
+      "telefono": "3183322110",
+      "nombre": "Laura Isabella Vargas López",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "ciudad": "PEREIRA RISARALDA",
+    "fechaHoraSalida": "2024-03-29T13:20",
+    "diasAlmacenado": 77,
+    "ancho": 0.5,
+    "largo": 0.8,
+    "id": "WXJFQ30A"
+  },
+  {
+    "contenido": "Avena en bultos de 12 kilos",
+    "volumen": 17.28,
+    "costo": 1382400,
+    "alto": 2.4,
+    "bodega": "Zona industrial La Enea, MANIZALES CALDAS",
+    "fechaHoraIngreso": "2024-10-04T14:35",
+    "cliente": {
+      "direccion": "Centro Comercial El Tesoro, Local 124",
+      "id": "MO18I",
+      "telefono": "3115544332",
+      "nombre": "Carlos Alberto Ramírez Torres",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-10-12T16:00",
+    "diasAlmacenado": 8,
+    "ancho": 2.4,
+    "largo": 3,
+    "id": "F21EOO5L"
+  },
+  {
+    "contenido": "Caja con laptops HP",
+    "volumen": 0.4,
+    "costo": 308000,
+    "alto": 1,
+    "bodega": "Plaza Central - Río Sucio",
+    "fechaHoraIngreso": "2024-01-12T07:45",
+    "cliente": {
+      "direccion": "Centro Comercial El Tesoro, Local 124",
+      "id": "MO18I",
+      "telefono": "3115544332",
+      "nombre": "Carlos Alberto Ramírez Torres",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-03-29T13:20",
+    "diasAlmacenado": 77,
+    "ancho": 0.5,
+    "largo": 0.8,
+    "id": "YB9YOMJV"
+  },
+  {
+    "contenido": "Bicicletas BMW",
+    "volumen": 2.44,
+    "costo": 24400,
+    "alto": 1,
+    "bodega": "Manizales - Galería",
+    "fechaHoraIngreso": "2024-11-16T09:42",
+    "cliente": {
+      "direccion": "Cra. 22 #23-12",
+      "id": "C0001",
+      "telefono": "3115551010",
+      "nombre": "Isabella Martinez Cardona Pineda",
+      "ciudad": "BOGOTÁ, D.C. BOGOTÁ"
+    },
+    "ciudad": "BOGOTÁ, D.C. BOGOTÁ",
+    "fechaHoraSalida": "2024-11-16T10:42",
+    "diasAlmacenado": 1,
+    "ancho": 2.44,
+    "largo": 1,
+    "id": "PPSQPUPU"
+  },
+  {
+    "contenido": "Floreros Franceses",
+    "volumen": 1,
+    "costo": 10000,
+    "alto": 1,
+    "bodega": "Mollit iste voluptat",
+    "fechaHoraIngreso": "2024-11-16T09:43",
+    "cliente": {
+      "direccion": "Carrera 51",
+      "id": "C0010",
+      "telefono": "3191234567",
+      "nombre": "Laura Valentina Ramírez",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-11-16T10:43",
+    "diasAlmacenado": 1,
+    "ancho": 1,
+    "largo": 1,
+    "id": "0GJ8GROX"
+  },
+  {
+    "contenido": "Computadores Laptop-Gamer, Asus",
+    "volumen": 1,
+    "costo": 10000,
+    "alto": 1,
+    "bodega": "Almacén La Gran Colombia - BOGOTÁ, D.C. BOGOTÁ",
+    "fechaHoraIngreso": "2024-11-16T10:41",
+    "cliente": {
+      "direccion": "Cll. 23 Sur #23-12",
+      "id": "SRM20",
+      "telefono": "3109876523",
+      "nombre": "Santiago Marin",
+      "ciudad": "MEDELLÍN ANTIOQUIA"
+    },
+    "ciudad": "MEDELLÍN ANTIOQUIA",
+    "fechaHoraSalida": "2024-11-16T11:41",
+    "diasAlmacenado": 1,
+    "ancho": 1,
+    "largo": 1,
+    "id": "X4YM793H"
+  },
+  {
+    "contenido": "Juguetes de \"Toy Story 4\"",
+    "volumen": 1,
+    "costo": 10000,
+    "alto": 1,
+    "bodega": "Aranzazu, bodega central 23",
+    "fechaHoraIngreso": "2024-11-16T13:37",
+    "cliente": {
+      "direccion": "Avenida 1ra Norte #34N-25",
+      "id": "V3ILX",
+      "telefono": "3109988774",
+      "nombre": "Valentina Castillo Rojas",
+      "ciudad": "MANIZALES CALDAS"
+    },
+    "ciudad": "MANIZALES CALDAS",
+    "fechaHoraSalida": "2024-11-16T14:37",
+    "diasAlmacenado": 1,
+    "ancho": 1,
+    "largo": 1,
+    "id": "27REKO0N"
+  },
+  {
+    "contenido": "Bolsas de basura x 3000",
+    "volumen": 1,
+    "costo": 10000,
+    "alto": 1,
+    "bodega": "Fresno, parque central",
+    "fechaHoraIngreso": "2024-11-16T13:53",
+    "cliente": {
+      "direccion": "Avenida 30 de Agosto",
+      "id": "C0011",
+      "telefono": "3139876543",
+      "nombre": "Daniel Felipe González",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "ciudad": "PEREIRA RISARALDA",
+    "fechaHoraSalida": "2024-11-16T14:53",
+    "diasAlmacenado": 1,
+    "ancho": 1,
+    "largo": 1,
+    "id": "D755DM90"
+  },
+  {
+    "contenido": "Avena en bultos de 12 kilos",
+    "volumen": 17.28,
+    "costo": 1382400,
+    "alto": 2.4,
+    "bodega": "Zona industrial La Enea, MANIZALES CALDAS",
+    "fechaHoraIngreso": "2024-10-04T14:35",
+    "cliente": {
+      "direccion": "Centro Comercial El Tesoro, Local 124",
+      "id": "MO18I",
+      "telefono": "3115544332",
+      "nombre": "Carlos Alberto Ramírez Torres",
+      "ciudad": "BARRANQUILLA ATLANTICO"
+    },
+    "ciudad": "BARRANQUILLA ATLANTICO",
+    "fechaHoraSalida": "2024-10-12T16:00",
+    "diasAlmacenado": 8,
+    "ancho": 2.4,
+    "largo": 3,
+    "id": "DE5U2AUD"
+  },
+  {
+    "contenido": "Caja con cuadernos cuadriculados 100 hojas",
+    "volumen": 0.125,
+    "costo": 42500,
+    "alto": 0.2,
+    "bodega": "Galería - Centro",
+    "fechaHoraIngreso": "2024-05-08T14:35",
+    "cliente": {
+      "direccion": "Calle 50 #12B-35, Barrio La Francia",
+      "id": "C0002",
+      "telefono": "3126789012",
+      "nombre": "Ana María López Pérez",
+      "ciudad": "PEREIRA RISARALDA"
+    },
+    "ciudad": "PEREIRA RISARALDA",
+    "fechaHoraSalida": "2024-06-12T12:00",
+    "diasAlmacenado": 34,
+    "ancho": 0.2,
+    "largo": 0.2,
+    "id": "8BILGU80"
+  }
+]
