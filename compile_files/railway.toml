@@ -2,8 +2,7 @@
 dockerfile = "Dockerfile"
 
 [deploy]
-start = "java -jar envios.jar"
+start = "java -jar app.jar --server.port=${PORT}"
 
-[[routes]]
-path = "/"
-port = 7070
+[env]
+PORT = "7070"
