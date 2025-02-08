@@ -2,8 +2,10 @@
 Caso de estudio Transportadora Andina - Semestre 2 Universidad de Caldas
 
 >[!NOTE]
+> **Backend**:
 > Puede probarlo en [API Transportadora Andina](https://transportadora-andina.onrender.com/), en RENDER.
-
+> **Frontend**:
+> Puede probarlo en [Frontend T.A](https://srm-ta.onrender.com/)
 ## endPoints disponibles:
 - cliente
 - bulto
